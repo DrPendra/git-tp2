@@ -1,1 +1,4 @@
 .project
+./src/org/diginamic
+src/org/diginamic/*.class
+*.classpath

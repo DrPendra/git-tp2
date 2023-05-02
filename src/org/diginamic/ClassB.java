@@ -1,4 +1,5 @@
 package org.diginamic;
+
 public class ClassB {
 	
 	public void nvMethod1() {
